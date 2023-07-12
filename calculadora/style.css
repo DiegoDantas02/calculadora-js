@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    
 }
 
 .fundo {
@@ -14,7 +15,7 @@
 
 .calculadora {
     position: absolute;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: black;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
