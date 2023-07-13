@@ -17,3 +17,4 @@ function valores(valor) {
     }
   }
   
+  //codigo do meu amigo chatgpt
